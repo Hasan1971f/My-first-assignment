@@ -51,13 +51,40 @@ background: rgb(13, 19, 33);
 color: white;
 text-align: center;
 }
-.Secong-part{
+.Second-part{
     display: flex;
     justify-content: center;
     text-align: center;
     flex-direction: column;
     margin: 48px 0px;
     
+}
+#profile{
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);;
+    border-radius: 16px;
+    border-radius: 16px;
+    padding: 48px 48px;
+    margin: 30px 0px;
+    
+    display: flex;
+    justify-content: center;
+}
+#profile .content{
+    font-size: 20px;
+    margin: 16px 0px;
+    margin-top: 16px;
+}
+.btn-1{
+    box-sizing: border-box;
+    border: 1px solid rgb(
+    rgb(13, 19, 33));
+    opacity: 0.7;
+    padding: 12px 20px;
+    font-size: 16px
+}
+.content-img{
+    display: flex;
+    justify-content: space-between;
 }
 
 
